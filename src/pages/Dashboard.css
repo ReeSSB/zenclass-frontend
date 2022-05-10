@@ -1,0 +1,9 @@
+.zenSpace {
+      display: flex;
+      flex-direction: column;
+      position: fixed;
+}
+
+.topSpace {
+      height: 250px
+}
